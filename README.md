@@ -9,6 +9,10 @@ Aplikasi ini digunakan untuk keperluan technical test disalah satu perusahaan da
 
 Ada kendala terkait API yelp, dimana api call terkendala oleh CORS. Oleh karena itu saat ini untuk keperluan test perlu menggunakan proxy, untuk keperluan test bisa menggunakan dahulu https://cors-anywhere.herokuapp.com/. Jika untuk development bisa membuat server proxy sendiri.
 
+### Screenshot
+![alt text](https://github.com/ranggareng/62teknologi-frontend-test-mochamad_rangga/blob/main/search-page.png)
+![alt text](https://github.com/ranggareng/62teknologi-frontend-test-mochamad_rangga/blob/main/detail-page.png)
+
 ### Installing
 - Buka terminal dan arahkan keproject ini
 - eksekusi perintah untuk menginstall package-package yang diperlukan
