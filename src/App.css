@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+
+.review-wrap .review-header img {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  border: 1px solid black;
+  margin-right: 10px;
+}
+
+.review-wrap .review-header {
+  margin-bottom: 10px;
+}
+
+.review-wrap {
+  background: rgba(0,0,0,0.03);
+  padding: 15px;
+  margin: 15px 0px;
+  border-radius: 10px;
+}
+
+table#table-detail tr>td:first-child {
+  padding-right: 20px;
+  font-weight: 700;
+}
+
+table#table-detail tr>td {
+  padding-bottom: 11px;
+}
